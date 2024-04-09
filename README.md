@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Java and Kotlin for Server Side Programming.
 
 <!--
 **AyushSharma830/AyushSharma830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
